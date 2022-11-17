@@ -9,7 +9,7 @@
 
 打开你的Makecode 编程环境，在扩展中复制如下链接： 
 
-https://github.com/zhuning239/TM1650  
+https://github.com/kylinbit/TM1650.git
 
 输入到搜索框进行搜索。
 
