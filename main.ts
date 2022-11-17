@@ -1,12 +1,11 @@
 /**
  * makecode四位数显示(TM1650)包.
- * http://www.loborobot.com
  */
 
 /**
  * TM1650 digit Display
  */
-//% weight=100 color=#64C800 icon="\uf1d5" block="创乐博四位数码管"
+//% weight=100 color=#64C800 icon="\uf1d5" block="华数四位数码管"
 namespace TM1650 {
 
     let COMMAND_I2C_ADDRESS = 0x24

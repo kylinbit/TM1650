@@ -4,7 +4,8 @@
     "description": "用于创乐博micro:bit开发板扩展包",
     "license": "MIT",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "microphone": "*"
     },
     "files": [
         "README.md",
